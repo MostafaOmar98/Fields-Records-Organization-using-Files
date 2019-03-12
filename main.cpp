@@ -1,6 +1,19 @@
 /*
  * Author: Mostafa Omar Mahmoud El-Sayed
- * Purpose: To use fixed length record, delimeted fields organization way on files
+ * ID: 20170292
+ * G: 11
+ * College assignment to organize Fields and Records using files in C++.
+    Records represent Books with the following Fields: ISBN, Title, Author Name, Price, Year Published, Number of Pages.
+    Method of Organization: Fixed length records, Delimeted records.
+
+    Operations:
+    1- Add Record
+    2- Print all Records
+    3- Print Record (Search by Book Title)
+    4- Update record (Search by Book ISBN)
+    5- Delete record (Search by Book ISBN) (Doesn't actually delete the actual bytes from the file but marks the record as deleted)
+    6- Compact File (Removes deleted record from the file)
+    7- Get file size
  */
 
 
