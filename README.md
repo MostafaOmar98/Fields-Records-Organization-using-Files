@@ -1,7 +1,7 @@
 # Fields-Records-Organization-using-Files  
 College assignment to organize Fields and Records using files in C++.  
 Records represent Books with the following Fields: ISBN, Title, Author Name, Price, Year Published, Number of Pages.  
-Method of Organization: Fixed length records, Delimeted records.  
+Method of Organization: Fixed length records, Delimeted fields.  
 
 Operations:  
 1- Add Record  
